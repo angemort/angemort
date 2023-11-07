@@ -12,8 +12,8 @@
 
 **Je suis un...**
 
-- [@Alien's Society](https://github.com/hexojs) core team member
-- [@Billys Ligue](https://github.com/Alien-s-Society) develop team member
+- [@Alien's Society](https://github.com/Alien-s-Society) core team member
+- [@Billys Ligue](https://github.com/) develop team member
 - [@Analy Web](https://github.com/AnalyWeb) founder
 - [@ParieSports](https://github.com/Paris-e-sport) founder
 - [@Uzagi](https://uzagi.fr/) collaborator
