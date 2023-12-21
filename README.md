@@ -4,10 +4,7 @@
 ![GitHub release (latest by date)](https://img.shields.io/twitter/follow/AngeM0rt?style=social)
 <img src="https://hits-app.vercel.app/hits?url=https%3A%2F%2Fgithub.com%2Fangemort" />
 
-<a href="https://github.com/angemort">
-  <img src="https://github-readme-stats.vercel.app/api?username=angemort&show_icons=true&hide_border=true&icon_color=60696f&title_color=8d939d&include_all_commits=true&hide_title=true&bg_color=1f2228&text_color=8d939d&count_private=true#gh-dark-mode-only" align="right" alt="My GitHub Stats" />
-</a>
-
+<a href="http://www.github.com/angemort"><img src="https://github-readme-streak-stats.herokuapp.com/?user=angemort&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" align="right" /></a>
 > Un codeur passionné par les technologies web et open source
 
 **Je suis un...**
