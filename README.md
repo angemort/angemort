@@ -1,3 +1,6 @@
+[![🇬🇧 Switch to English](https://img.shields.io/badge/Switch_to-🇬🇧_English-blue)](README.en.md)
+
+---
 ![Banner](banner_angemort.png)
 <br>
 
@@ -9,9 +12,11 @@
 
 **Je suis un...**
 
-- [@Alien's Society](https://github.com/Alien-s-Society) core team member
-- [@Billys Ligue](https://github.com/) develop team member
-- [@Analy Web](https://github.com/AnalyWeb) founder
+- [@MyAiCM](https://myaicm.com) core team member  
+- [@Knights on Base](https://discord.gg/tvbh78TxtM) core team member  
+- [@SkillScal](https://discord.gg/9rJZvRDcJv) core team member  
+- [@Billys Ligue](https://discord.gg/nQty7FpGv7) develop team member  
+- [@Analy Web](https://github.com/AnalyWeb) founder  
 - [@ParieSports](https://github.com/Paris-e-sport) founder
 - [@Uzagi](https://uzagi.fr/) collaborator
 - Contributeur actif sur [TDD](https://discord.gg/jBKdhMkbks), et bien d'autres encore !
